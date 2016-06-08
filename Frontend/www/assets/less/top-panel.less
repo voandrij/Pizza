@@ -1,11 +1,13 @@
 .top-panel {
   background: rgba(0, 0, 0, .8);
   z-index: 10;
+  padding-left: 130px;
+  padding-right: 350px;
 
   .site-icon {
     position: fixed;
     top: 0;
-    background: #ea862e;
+    background: @discountColor;
     z-index: 99;
     width: 100px;
     height: 90px;
@@ -14,22 +16,64 @@
     padding-top: 15px;
     color: #fff;
     left: 9px;
-    border-left: 1px solid #d16200;
-    border-right: 1px solid #d16200;
+    border-left: 1px solid darken(@discountColor, 10%);
+    border-right: 1px solid darken(@discountColor, 10%);
     text-transform: uppercase;
     text-align: center;
+
+    .top-discount {
+      top: 90px;
+      transform: scaleY(-1);
+    }
+
+    .title-2{
+      font-size: 25px;
+    }
+
+    .pizza-logo {
+      color: #fff!important;
+    }
   }
 
-  .top-discount {
-    top: 90px;
-    transform: scaleY(-1);
+
+
+  .header-top-row {
+    width: 100%;
+    font-size: 12px;
+    line-height: 11px;
+    margin: 0;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid;
+    color: #a1a1a1;
+
+    .phone-number {
+      font-size: 20px;
+      padding-right: 30px;
+      padding-bottom: 15px;
+    }
+
+    .work-days {
+      font-size: 12px;
+      padding-right: 30px;
+    }
+
+    .delivery {
+      font-size: 16px;
+      padding-right: 30px;
+    }
+
+    .sign-in-button {
+      float: right;
+      margin-top: -11px;
+    }
   }
 
-  .title-2{
-    font-size: 25px;
+  .header-down-row {
+    display: block!important;
+    padding-bottom: 10px;
+    font-size: 16px;
+    cursor: pointer;
   }
 
-  .pizza-logo {
-    color: #fff!important;
-  }
 }

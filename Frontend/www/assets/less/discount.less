@@ -1,18 +1,17 @@
-@background-color: #ea862e;
 @font-size: 15px;
 
 
 .discount-panel {
   position: fixed;
   bottom: 0;
-  background: @background-color;
+  background: @discountColor;
   z-index: 99;
   width: 100px;
   padding: 10px;
   color: #fff;
   left: 9px;
-  border-left: 1px solid darken(@background-color, 10%);
-  border-right: 1px solid darken(@background-color, 10%);
+  border-left: 1px solid darken(@discountColor, 10%);
+  border-right: 1px solid darken(@discountColor, 10%);
   text-transform: uppercase;
   text-align: center;
 
@@ -20,7 +19,7 @@
     font-family: Helvetica,Calibri;
     font-weight: 700;
     font-size: @font-size;
-    border-bottom: 2px dotted darken(@background-color, 15%);
+    border-bottom: 2px dotted darken(@discountColor, 15%);
     margin-bottom: 7px;
     padding-bottom: 3px;
   }
