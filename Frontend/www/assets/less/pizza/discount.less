@@ -1,0 +1,45 @@
+@background-color: #ea862e;
+@font-size: 15px;
+
+
+.discount-panel {
+  position: fixed;
+  bottom: 0;
+  background: @background-color;
+  z-index: 99;
+  width: 100px;
+  padding: 10px;
+  color: #fff;
+  left: 9px;
+  border-left: 1px solid darken(@background-color, 10%);
+  border-right: 1px solid darken(@background-color, 10%);
+  text-transform: uppercase;
+  text-align: center;
+
+  .discount-title{
+    font-family: Helvetica,Calibri;
+    font-weight: 700;
+    font-size: @font-size;
+    border-bottom: 2px dotted darken(@background-color, 15%);
+    margin-bottom: 7px;
+    padding-bottom: 3px;
+  }
+
+  .discount-text {
+    font-size: @font-size;
+    font-weight: 700;
+  }
+}
+
+.discount-before {
+  width: 100px;
+  height: 11px;
+  top: -11px;
+  left: -1px;
+  background-image: url(../images/discount.svg);
+  background-size: 100px 11px;
+  background-repeat: no-repeat;
+  padding: 0!important;
+  margin: 0!important;
+  position: absolute;
+}
