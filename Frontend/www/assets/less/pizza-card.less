@@ -1,0 +1,71 @@
+.pizza-card {
+  padding-top: 30px;
+
+  .pizza-card-container {
+    display: block;
+    border: 1px solid #dfdfdf;
+    border-radius: 3px;
+    padding: 5px;
+    margin-bottom: 20px;
+    background-color: white;
+
+    .pizza-icon {
+      width: 100%;
+      max-width: 300px;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .pizza-label-conteiner {
+      position: absolute;
+      right: 0;
+      top: 0;
+
+      .label {
+        color: white;
+        text-align: center;
+        padding: .2em .6em .3em;
+        font-size: 75%;
+        border-radius: .3em;
+        font-weight: 500;
+
+        .label-green {
+          background-color: #5cb85c;
+        }
+        .label-red {
+          background-color: #d9534f;
+        }
+      }
+    }
+
+    .caption {
+      color: black;
+      padding: 9px;
+
+      .type {
+        color: #a3a0a0;
+        font-size: 12px;
+      }
+
+      .title {
+        font-size: 30px;
+        color: spin(@mainColor, -10);
+        font-weight: 600;
+      }
+
+      .description {
+        //margin-bottom: 5px;
+        height: 65px;
+      }
+
+      .pizza-small{
+        text-align: center;
+      }
+
+      .pizza-big{
+        text-align: center;
+      }
+    }
+  }
+}
+
