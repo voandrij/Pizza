@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb83bb4-956e-4828-b89b-e0801f60693f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backend/views/common/rightPanel.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Backend/views/orderPage.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Frontend/www/assets/less/order.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Frontend/www/order.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend/src/pizza/PizzaCart.js" afterPath="$PROJECT_DIR$/Frontend/src/pizza/PizzaCart.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend/www/assets/js/main.js" afterPath="$PROJECT_DIR$/Frontend/www/assets/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend/www/assets/less/main.less" afterPath="$PROJECT_DIR$/Frontend/www/assets/less/main.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Backend/views/orderPage.ejs" afterPath="$PROJECT_DIR$/Backend/views/orderPage.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend/www/assets/less/order.less" afterPath="$PROJECT_DIR$/Frontend/www/assets/less/order.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend/www/index.html" afterPath="$PROJECT_DIR$/Frontend/www/index.html" />
     </list>
     <ignored path="Pizza.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Frontend/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="89" selection-end-column="14" />
+            <state relative-caret-position="360">
+              <caret line="106" column="23" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -43,7 +38,6 @@
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#ul#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -69,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="order.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="order.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Frontend/www/assets/less/order.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -102,8 +96,8 @@
       <file leaf-file-name="orderPage.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Backend/views/orderPage.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="76" column="22" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+            <state relative-caret-position="60">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -112,8 +106,8 @@
       <file leaf-file-name="mainPage.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Backend/views/mainPage.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            <state relative-caret-position="150">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -168,7 +162,6 @@
         <option value="$PROJECT_DIR$/Frontend/src/pizza/PizzaMenu.js" />
         <option value="$PROJECT_DIR$/Frontend/templates/PizzaCart_OneItem.ejs" />
         <option value="$PROJECT_DIR$/Frontend/www/assets/less/right-panel.less" />
-        <option value="$PROJECT_DIR$/Frontend/www/index.html" />
         <option value="$PROJECT_DIR$/Frontend/src/Pizza_List.js" />
         <option value="$PROJECT_DIR$/Frontend/templates/PizzaMenu_OneItem.ejs" />
         <option value="$PROJECT_DIR$/Backend/pages.js" />
@@ -178,11 +171,13 @@
         <option value="$PROJECT_DIR$/Backend/views/order.ejs" />
         <option value="$PROJECT_DIR$/Frontend/www/assets/order.html" />
         <option value="$PROJECT_DIR$/Frontend/www/assets/less/main.less" />
-        <option value="$PROJECT_DIR$/Frontend/www/assets/less/order.less" />
         <option value="$PROJECT_DIR$/Backend/views/common/order-panel.ejs" />
         <option value="$PROJECT_DIR$/Frontend/src/pizza/PizzaCart.js" />
         <option value="$PROJECT_DIR$/Frontend/www/order.html" />
         <option value="$PROJECT_DIR$/Backend/main.js" />
+        <option value="$PROJECT_DIR$/Frontend/www/assets/less/order.less" />
+        <option value="$PROJECT_DIR$/Backend/views/orderPage.ejs" />
+        <option value="$PROJECT_DIR$/Frontend/www/index.html" />
       </list>
     </option>
   </component>
@@ -663,12 +658,12 @@
       <workItem from="1466547494789" duration="217000" />
       <workItem from="1466580969246" duration="5756000" />
       <workItem from="1466601953563" duration="8226000" />
-      <workItem from="1466620043703" duration="328000" />
+      <workItem from="1466620043703" duration="1719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33467000" />
+    <option name="totallyTimeSpent" value="34858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -715,11 +710,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1466618099000" expanded="true" signature="5272:5313" placeholder="/** Created by chaika on 02.02.16. ...*/" />
-            <marker date="1466618099000" expanded="true" signature="10073:10114" placeholder="/** Created by chaika on 02.02.16. ...*/" />
-            <marker date="1466618099000" expanded="true" signature="11201:11453" placeholder="{...}" />
-            <marker date="1466618099000" expanded="true" signature="11370:11401" placeholder="{...}" />
-            <marker date="1466618099000" expanded="true" signature="11680:11741" placeholder="{...}" />
+            <marker date="1466620437000" expanded="true" signature="5272:5313" placeholder="/** Created by chaika on 02.02.16. ...*/" />
+            <marker date="1466620437000" expanded="true" signature="10073:10114" placeholder="/** Created by chaika on 02.02.16. ...*/" />
+            <marker date="1466620437000" expanded="true" signature="11201:11453" placeholder="{...}" />
+            <marker date="1466620437000" expanded="true" signature="11370:11401" placeholder="{...}" />
+            <marker date="1466620437000" expanded="true" signature="11680:11741" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -744,7 +739,6 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#ul#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -808,11 +802,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1466618099000" expanded="true" signature="5272:5313" placeholder="/** Created by chaika on 02.02.16. ...*/" />
-            <marker date="1466618099000" expanded="true" signature="10073:10114" placeholder="/** Created by chaika on 02.02.16. ...*/" />
-            <marker date="1466618099000" expanded="true" signature="11201:11453" placeholder="{...}" />
-            <marker date="1466618099000" expanded="true" signature="11370:11401" placeholder="{...}" />
-            <marker date="1466618099000" expanded="true" signature="11680:11741" placeholder="{...}" />
+            <marker date="1466620437000" expanded="true" signature="5272:5313" placeholder="/** Created by chaika on 02.02.16. ...*/" />
+            <marker date="1466620437000" expanded="true" signature="10073:10114" placeholder="/** Created by chaika on 02.02.16. ...*/" />
+            <marker date="1466620437000" expanded="true" signature="11201:11453" placeholder="{...}" />
+            <marker date="1466620437000" expanded="true" signature="11370:11401" placeholder="{...}" />
+            <marker date="1466620437000" expanded="true" signature="11680:11741" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -837,7 +831,6 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#ul#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -911,6 +904,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="695">
           <caret line="76" column="3" selection-start-line="76" selection-start-column="2" selection-end-line="76" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -918,6 +912,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -933,11 +928,11 @@
         <state relative-caret-position="300">
           <caret line="419" column="0" selection-start-line="419" selection-start-column="0" selection-end-line="419" selection-end-column="0" />
           <folding>
-            <marker date="1466618099000" expanded="true" signature="5272:5313" placeholder="/** Created by chaika on 02.02.16. ...*/" />
-            <marker date="1466618099000" expanded="true" signature="10073:10114" placeholder="/** Created by chaika on 02.02.16. ...*/" />
-            <marker date="1466618099000" expanded="true" signature="11201:11453" placeholder="{...}" />
-            <marker date="1466618099000" expanded="true" signature="11370:11401" placeholder="{...}" />
-            <marker date="1466618099000" expanded="true" signature="11680:11741" placeholder="{...}" />
+            <marker date="1466620437000" expanded="true" signature="5272:5313" placeholder="/** Created by chaika on 02.02.16. ...*/" />
+            <marker date="1466620437000" expanded="true" signature="10073:10114" placeholder="/** Created by chaika on 02.02.16. ...*/" />
+            <marker date="1466620437000" expanded="true" signature="11201:11453" placeholder="{...}" />
+            <marker date="1466620437000" expanded="true" signature="11370:11401" placeholder="{...}" />
+            <marker date="1466620437000" expanded="true" signature="11680:11741" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -961,6 +956,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1076,30 +1072,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Backend/views/mainPage.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backend/views/orderPage.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="76" column="22" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backend/views/common/rightPanel.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Backend/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1116,10 +1088,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Frontend/www/assets/less/order.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/views/orderPage.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/views/mainPage.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backend/views/common/rightPanel.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Frontend/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="89" selection-end-column="14" />
+        <state relative-caret-position="360">
+          <caret line="106" column="23" selection-start-line="106" selection-start-column="23" selection-end-line="106" selection-end-column="23" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1128,16 +1132,7 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#ul#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/www/assets/less/order.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
