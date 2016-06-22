@@ -14,7 +14,7 @@
   background: #fff;
   z-index: 1000;
 
-  .r1 {
+  .left-nav {
     padding-bottom: 13px;
 
     .order-list-title {
@@ -26,30 +26,78 @@
 
     .clear-order {
       float: right;
+
+      margin-right: 15px;
       margin-top: 5px;
       cursor: pointer;
-    }
-
-    .clear-order-wrap {
-      padding-right: 15px;
+      //padding-right: 15px;
       font-size: 10px;
       line-height: 11px;
       font-weight: 400;
       color: rgba(0,0,0,.5);
     }
+
   }
 
   .r2 {
     //height: 100%;
-    width: 100%;
-    box-sizing: content-box;
-    display: block!important;
+
   }
 
   .all-orders {
     margin-top: 15px;
     background-color: #F5F5F5;
+    width: 100%;
+    box-sizing: content-box;
+    display: block!important;
     //height: 100%;
+
+    .orderedPizza {
+      border: 1px solid #ddd;
+      position: relative;
+      padding: 20px 61px 10px 24px;
+
+
+      h4 {
+        color: @mainColor;
+        left: 10px;
+      }
+      .sizeR {
+        display: inline-block;
+
+      }
+
+      .weight {
+        display: inline-block;
+      }
+
+      .price {
+        display: inline-block;
+        color: #000;
+      }
+
+      .calculate {
+        margin: 4px;
+        display: inline-block;
+        font-weight: 700;
+
+
+        .roundBtn {
+          margin: 4px;
+          border-radius: 15px;
+        }
+      }
+
+      .piza-part {
+        position: absolute;
+        width: 96px;
+        height: 96px;
+        right: -48px;
+        top: 20px;
+        border-radius: 50% 0 0 50%;
+
+      }
+    }
 
     .no-order-text {
       font-size: 16px;
@@ -88,6 +136,8 @@
     }
 
   }
+
+
 
 
 }
