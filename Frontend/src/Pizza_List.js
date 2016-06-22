@@ -110,6 +110,11 @@ var pizza_info = [
             weight: 370,
             size: 30,
             price: 89
+        },
+        big_size:{
+            weight: 780,
+            size: 40,
+            price: 180
         }
     },
     {
@@ -144,6 +149,11 @@ var pizza_info = [
             ocean: ['криветки тигрові', 'мідії', 'ікра червона', 'філе червоної риби'],
             cheese: ['сир моцарелла'],
             additional: ['оливкова олія', 'вершки']
+        },
+        small_size:{
+            weight: 470,
+            size: 30,
+            price: 115
         },
         big_size:{
             weight: 845,

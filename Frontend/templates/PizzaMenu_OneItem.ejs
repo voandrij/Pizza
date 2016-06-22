@@ -34,28 +34,28 @@ function getIngredientsArray(pizza) {
                 <div class="col-sm-6 pizza-small">
                     <div>
                         <img class="ui right spaced avatar image" src="assets/images/size-icon.svg">
-                        <span class="diagonal">30</span>
+                        <span class="diagonal"><%= pizza['big_size'].size %></span>
                     </div>
                     <div>
                         <img class="ui right spaced avatar image" src="assets/images/weight.svg">
-                        <span class="gram">370</span>
+                        <span class="gram"><%= pizza['small_size'].weight %></span>
                     </div>
                     <h2>
-                        <div class="price">99<div style="font-size:14px;"> грн.</div></div>
+                        <div class="price"><%= pizza['small_size'].price %><div style="font-size:14px;"> грн.</div></div>
                     </h2>
                     <a href="#" class="btn btn-warning buy-button-small" role="button">Купити</a>
                 </div>
                 <div class="col-sm-6 pizza-big">
                     <div>
                         <img class="ui right spaced avatar image" src="assets/images/size-icon.svg">
-                        <span class="diagonal">40</span>
+                        <span class="diagonal"><%= pizza['small_size'].price %></span>
                     </div>
                     <div>
                         <img class="ui right spaced avatar image" src="assets/images/weight.svg">
-                        <span class="gram">660</span>
+                        <span class="gram"><%= pizza['big_size'].weight %></span>
                     </div>
                     <h2>
-                        <div class="price">169<div style="font-size:14px;"> грн.</div></div>
+                        <div class="price"><%= pizza['big_size'].price %><div style="font-size:14px;"> грн.</div></div>
                     </h2>
                     <a href="#" class="btn btn-warning  buy-button-big" role="button">Купити</a>
                 </div>

@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb83bb4-956e-4828-b89b-e0801f60693f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Pizza_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Frontend/src/Storage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Pizza.iml" afterPath="$PROJECT_DIR$/.idea/Pizza.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend/src/Pizza_List.js" afterPath="$PROJECT_DIR$/Frontend/src/Pizza_List.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend/src/pizza/PizzaCart.js" afterPath="$PROJECT_DIR$/Frontend/src/pizza/PizzaCart.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend/src/pizza/PizzaMenu.js" afterPath="$PROJECT_DIR$/Frontend/src/pizza/PizzaMenu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend/templates/PizzaCart_OneItem.ejs" afterPath="$PROJECT_DIR$/Frontend/templates/PizzaCart_OneItem.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend/templates/PizzaMenu_OneItem.ejs" afterPath="$PROJECT_DIR$/Frontend/templates/PizzaMenu_OneItem.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend/www/assets/js/main.js" afterPath="$PROJECT_DIR$/Frontend/www/assets/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend/www/assets/less/right-panel.less" afterPath="$PROJECT_DIR$/Frontend/www/assets/less/right-panel.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend/www/index.html" afterPath="$PROJECT_DIR$/Frontend/www/index.html" />
     </list>
     <ignored path="Pizza.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,39 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Frontend/www/index.html">
+      <file leaf-file-name="Pizza_List.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Frontend/src/Pizza_List.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
-              <folding>
-                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PizzaCart_OneItem.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Frontend/templates/PizzaCart_OneItem.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="32" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="32" />
+            <state relative-caret-position="2340">
+              <caret line="156" column="10" selection-start-line="156" selection-start-column="10" selection-end-line="156" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PizzaCart.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Frontend/src/pizza/PizzaCart.js">
+      <file leaf-file-name="PizzaMenu_OneItem.ejs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Frontend/templates/PizzaMenu_OneItem.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="113" column="23" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
+            <state relative-caret-position="435">
+              <caret line="50" column="79" selection-start-line="50" selection-start-column="79" selection-end-line="50" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -100,13 +72,13 @@
         <option value="$PROJECT_DIR$/Frontend/www/assets/less/main.less" />
         <option value="$PROJECT_DIR$/Frontend/src/Storage.js" />
         <option value="$PROJECT_DIR$/Frontend/www/assets/js/main.js" />
-        <option value="$PROJECT_DIR$/Frontend/templates/PizzaMenu_OneItem.ejs" />
         <option value="$PROJECT_DIR$/Frontend/src/pizza/PizzaMenu.js" />
-        <option value="$PROJECT_DIR$/Frontend/src/Pizza_List.js" />
         <option value="$PROJECT_DIR$/Frontend/templates/PizzaCart_OneItem.ejs" />
         <option value="$PROJECT_DIR$/Frontend/www/assets/less/right-panel.less" />
         <option value="$PROJECT_DIR$/Frontend/www/index.html" />
         <option value="$PROJECT_DIR$/Frontend/src/pizza/PizzaCart.js" />
+        <option value="$PROJECT_DIR$/Frontend/src/Pizza_List.js" />
+        <option value="$PROJECT_DIR$/Frontend/templates/PizzaMenu_OneItem.ejs" />
       </list>
     </option>
   </component>
@@ -516,12 +488,12 @@
       <workItem from="1466536493872" duration="1128000" />
       <workItem from="1466547494789" duration="217000" />
       <workItem from="1466580969246" duration="5756000" />
-      <workItem from="1466601953563" duration="3146000" />
+      <workItem from="1466601953563" duration="4548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28059000" />
+    <option name="totallyTimeSpent" value="29461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -848,13 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/www/assets/less/pizza-card.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Frontend/www/assets/less/main.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -870,13 +835,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/www/assets/less/left-panel.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/brfs/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
@@ -889,40 +847,16 @@
         <state relative-caret-position="300">
           <caret line="419" column="0" selection-start-line="419" selection-start-column="0" selection-end-line="419" selection-end-column="0" />
           <folding>
-            <marker date="1466605092000" expanded="true" signature="5070:5111" placeholder="/** Created by chaika on 02.02.16. ...*/" />
-            <marker date="1466605092000" expanded="true" signature="9699:9740" placeholder="/** Created by chaika on 02.02.16. ...*/" />
-            <marker date="1466605092000" expanded="true" signature="10827:11079" placeholder="{...}" />
-            <marker date="1466605092000" expanded="true" signature="10996:11027" placeholder="{...}" />
-            <marker date="1466605092000" expanded="true" signature="11680:11741" placeholder="{...}" />
+            <marker date="1466606955000" expanded="true" signature="5272:5313" placeholder="/** Created by chaika on 02.02.16. ...*/" />
+            <marker date="1466606955000" expanded="true" signature="10073:10114" placeholder="/** Created by chaika on 02.02.16. ...*/" />
+            <marker date="1466606955000" expanded="true" signature="11201:11453" placeholder="{...}" />
+            <marker date="1466606955000" expanded="true" signature="11370:11401" placeholder="{...}" />
+            <marker date="1466606955000" expanded="true" signature="11680:11741" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/templates/PizzaMenu_OneItem.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Frontend/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/src/Pizza_List.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="695">
-          <caret line="124" column="60" selection-start-line="124" selection-start-column="60" selection-end-line="124" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/src/Storage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -954,17 +888,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/templates/PizzaCart_OneItem.ejs">
+    <entry file="file://$PROJECT_DIR$/Frontend/src/pizza/PizzaCart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="32" />
+        <state relative-caret-position="450">
+          <caret line="113" column="23" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frontend/www/assets/less/left-panel.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Frontend/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="825">
           <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -978,10 +920,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/src/pizza/PizzaCart.js">
+    <entry file="file://$PROJECT_DIR$/Frontend/www/assets/less/pizza-card.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="113" column="23" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frontend/src/Storage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frontend/templates/PizzaCart_OneItem.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frontend/src/Pizza_List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="156" column="10" selection-start-line="156" selection-start-column="10" selection-end-line="156" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frontend/templates/PizzaMenu_OneItem.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="50" column="79" selection-start-line="50" selection-start-column="79" selection-end-line="50" selection-end-column="79" />
           <folding />
         </state>
       </provider>
