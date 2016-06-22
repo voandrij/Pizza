@@ -147,6 +147,19 @@ function updateCart() {
             updateCart();
         });
 
+        var url=window.location.toString();
+
+        if(url.indexOf('/order.html')+1){
+            $node.find('.count-clear').hide();
+            $('#order').hide();
+            $('#edit').show();
+        }
+        else{
+            $node.find('.count-clear').show();
+            $('#order').show();
+            $('#edit').hide();
+        }
+
     }
 
     Cart.forEach(showOnePizzaInCart);
@@ -154,6 +167,14 @@ function updateCart() {
     Storage.set("cart",Cart);
     console.log("cart: ", Cart);
 }
+
+$("#order").click(function(){
+    window.location = "/order.html";
+});
+
+$("#edit").click(function(){
+    window.location="/";
+});
 
 exports.removeFromCart = removeFromCart;
 exports.addToCart = addToCart;
